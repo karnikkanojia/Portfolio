@@ -1,6 +1,6 @@
 import React from 'react';
 import { BsTwitter, BsInstagram } from 'react-icons/bs';
-import { FaGithub } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 
 const SocialMedia = () => {
@@ -14,6 +14,9 @@ const SocialMedia = () => {
       </a>
       <a href="https://www.instagram.com/karnik.kanojia/" target='_blank' rel='noreferrer'>
         <BsInstagram />
+      </a>
+      <a href="https://linkedin.com/in/karnikkanojia" target='_blank' rel='noreferrer'>
+        <FaLinkedin />
       </a>
     </div>
   )

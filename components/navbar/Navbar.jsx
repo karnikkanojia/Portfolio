@@ -52,10 +52,9 @@ const Navbar = () => {
                 </li>
               ))}
               <li className="app__flex p-text" id="linkedin" key="link-linkedin">
-                <div style={{ opacity: 0 }} />
-                  <a id="resume_link_menu" href="https://drive.google.com/file/d/1NTqUN9-IOdiNzIzUZdldFimjr1nX4CwD/view?usp=sharing" target="_blank" rel="noreferrer">
-                    Resume
-                  </a>
+                <a id="resume_link_menu" href="https://drive.google.com/file/d/1NTqUN9-IOdiNzIzUZdldFimjr1nX4CwD/view?usp=sharing" target="_blank" rel="noreferrer">
+                  Resume
+                </a>
               </li>
             </ul>
           </motion.div>

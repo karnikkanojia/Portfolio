@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Karnik Kanojia',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Karnik Kanojia is a passionate tech enthusiast & data scientist skilled in Python, C++, Deep Learning, and TensorFlow. Building impactful applications for a healthier future!',
     siteUrl: 'https://www.karnikkanojia.tech', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@KanojiaKarnik',

@@ -1,10 +1,10 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2'
+title: 'Research Intern'
+company: 'Samsung Research Institute'
+location: 'Bengaluru, IN'
+range: 'December 2022 - July 2023'
+url: 'https://research.samsung.com/sri-b'
 ---
 
 - Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community

@@ -5,6 +5,7 @@ import { Layout, Hero, About, Jobs, Featured, Contact } from '@components';
 
 const StyledMainContainer = styled.main`
   counter-reset: section;
+  scroll-behavior: smooth;
 `;
 
 const IndexPage = ({ location }) => (
